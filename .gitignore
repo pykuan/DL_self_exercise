@@ -1,0 +1,6 @@
+*.jpg
+*.jpeg
+*.tar.gz
+*.csv
+*.png
+/train_e/
